@@ -1,6 +1,4 @@
 # Afeez Lawal
-- Location: Lagos, Nigeria
-- LinkedIn: https://www.linkedin.com/in/afeezgl/
 
 Summary:
 ---------
