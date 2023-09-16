@@ -1,16 +1,17 @@
-### Hi there 👋
+# Afeez Lawal
+- Location: Lagos, Nigeria
+- LinkedIn: https://www.linkedin.com/in/afeezgl/
 
-<!--
-**AfeezGL/afeezgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Summary:
+---------
+Results-driven Software Engineer with a strong background in frontend development and a passion for creating exceptional user experiences. Proficient in TypeScript, React, NextJS, Preact, and CSS, with a track record of designing and implementing innovative web applications. Adept at collaborating with cross-functional teams to deliver high-quality solutions that drive productivity and user satisfaction.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+-------
+- Frontend Technologies: React, NextJS, Preact, TypeScript, JavaScript, Tailwind CSS, Webpack.
+- Backend Technologies: Typescript, ExpressJs, NestJs, Python(Django)
+- Version Control: Git
+- UI/UX Design Principles
+- Responsive Web Design
+- Containerization: Docker
+- Operating Systems: Linux
