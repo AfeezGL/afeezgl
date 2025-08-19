@@ -7,7 +7,7 @@ Senior Software Engineer with a strong background in fullstack development and a
 Skills:
 -------
 - Frontend Technologies: React, NextJS, Preact, TypeScript, JavaScript, Tailwind CSS, Webpack.
-- Backend Technologies: Typescript, ExpressJs, NestJs, Python(Django)
+- Backend Technologies: Typescript, ExpressJs, NestJs, Python(Django), NestJS
 - Version Control: Git
 - UI/UX Design Principles
 - Responsive Web Design
